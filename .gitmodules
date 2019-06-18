@@ -1,0 +1,3 @@
+[submodule "YaoBlocks.jl"]
+	path = YaoBlocks.jl
+	url = git@github.com:wsmoses/YaoBlocks.jl
